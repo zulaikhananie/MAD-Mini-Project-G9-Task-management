@@ -27,10 +27,12 @@ Task Management is a Flutter-based mobile application designed to help users org
 - **Authentication**: Secure user authentication powered by Firebase Auth.
 
 ## Screens
-The app includes the following screens:
-- **Home Screen**: Displays the list of tasks with options to add new tasks and navigate to the user profile.
-- **Add Task Screen**: Allows users to add new tasks.
-- **Profile Screen**: Provides options to view and edit user profile information.
+The app consists of several screens to facilitate different functionalities:
+- **Signup**: Allows users to create a new account.
+- **Login**: Enables users to log into their accounts.
+- **Home**: Displays the list of tasks along with options to add new tasks and navigate to the profile page.
+- **Profile Page**: Shows user profile information and allows users to edit their profiles.
+- **Edit Screen**: Provides functionality to edit existing tasks.
 
 ## Database
 Task Management app utilizes Firebase Firestore as its database. The following collections and documents are declared:
