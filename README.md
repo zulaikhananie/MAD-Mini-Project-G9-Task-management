@@ -1,4 +1,4 @@
-# MAD Mini Project : Task management
+# MAD Mini Project : Task management (G9)
 
 A new Flutter project.
 
@@ -53,7 +53,7 @@ To run this application locally, follow these steps:
 2. Sign in with your credentials or create a new account.
 3. Start managing your tasks efficiently.
 
-## Contributors
+## Contributors (Group 9)
 - [Muhammad Aiman Hakim-BITS S1G2](https://github.com/aimanskyy)
 - [Zulaikha Hananie-BITS S1G1](https://github.com/zulaikhananie)
   
