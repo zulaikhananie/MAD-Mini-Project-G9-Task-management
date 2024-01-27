@@ -54,8 +54,8 @@ To run this application locally, follow these steps:
 3. Start managing your tasks efficiently.
 
 ## Contributors
-- [Your Name](link-to-your-profile) - Developer
-- [Collaborator's Name](link-to-collaborator-profile) - Designer
+- [Your Name]([link-to-your-profile](https://github.com/zulaikhananie)) 
+- nnti edit tmbh link profile ko kt sini man
 
 ## License
 This project is licensed under the [MIT License](link-to-license-file).
