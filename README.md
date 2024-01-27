@@ -1,4 +1,4 @@
-# Task management
+# MAD Mini Project : Task management
 
 A new Flutter project.
 
