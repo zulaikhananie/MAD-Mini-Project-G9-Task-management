@@ -57,7 +57,4 @@ To run this application locally, follow these steps:
 - nnti edit tmbh link profile ko kt sini man
 - [Zulaikha Hananie-BITS S1G1](https://github.com/zulaikhananie)
   
-## License
-This project is licensed under the [MIT License](link-to-license-file).
-
 
