@@ -54,7 +54,7 @@ To run this application locally, follow these steps:
 3. Start managing your tasks efficiently.
 
 ## Contributors
-- nnti edit tmbh link profile ko kt sini man
+- [Muhammad Aiman Hakim-BITS S1G2](https://github.com/aimanskyy)
 - [Zulaikha Hananie-BITS S1G1](https://github.com/zulaikhananie)
   
 
